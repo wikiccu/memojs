@@ -1,0 +1,25 @@
+{
+  "name": "memojs",
+  "version": "1.0.0",
+  "description": "nodejs backend crud app for test\r ### road-map to complete \r - [ ] using express in nodejs \r - [ ] using mongoose for building db models \r - [ ] make crud of simple blog posts \r - [ ] test in clients like postman",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlirezacOD/memojs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlirezacOD/memojs/issues"
+  },
+  "homepage": "https://github.com/AlirezacOD/memojs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  }
+}
