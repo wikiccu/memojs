@@ -6,4 +6,4 @@ nodejs backend crud app for test
 - [ ] make crud of simple blog posts 
 - [ ] test in clients like postman 
 
-
+https://www.restapitutorial.com/httpstatuscodes.html
