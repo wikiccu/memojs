@@ -7,3 +7,7 @@ nodejs backend crud app for test
 - [ ] test in clients like postman 
 test
 https://www.restapitutorial.com/httpstatuscodes.html
+
+mongodb url 
+
+mongodb+srv://parhamuser:<password>@cluster0.y8un9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
